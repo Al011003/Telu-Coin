@@ -1,0 +1,9 @@
+{
+  "contractAddress": "0xEe29aC868A3503d571942f7f9Ad7280F91998e41",
+  "ownerAddress": "0xBBcC0B7CfE9BDb5d42758e4013759785658395a4",
+  "blockNumber": "5",
+  "timestamp": "2025-10-14T09:51:22.830Z",
+  "network": "ganache-gui",
+  "chainId": 1337,
+  "gasUsed": "2812505"
+}
